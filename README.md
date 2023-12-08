@@ -2,7 +2,7 @@
 Financial Sentiment Influence Analysis: Unveiling Stock Movements through Granger Causality
 
 ## Dataset
-### World Street Journal News Articles
+#### World Street Journal News Articles
 
 ## Project Components:
 ### 1. Stock Price Data Extraction using the Vantage API.
